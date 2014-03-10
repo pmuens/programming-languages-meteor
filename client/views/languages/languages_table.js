@@ -1,5 +1,5 @@
 Template.languagesTable.languages = function () {
-  return Languages.find();
+  return Languages.find({}, {sort: {votes: -1}});
 };
 
 Template.languagesTable.events({
