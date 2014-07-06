@@ -4,7 +4,7 @@ A sample application to demonstrate what one can do with Meteor!
 ![programming_languages_meteor](https://cloud.githubusercontent.com/assets/1606004/3488293/bd401880-04d9-11e4-93e1-022882b0901e.png)
 
 ## What is this?
-This is the source code for the sample application I've live-Coded when giving a presentaiton about Meteor at the "[Webentwickler Paderborn](http://webentwickler-paderborn.de)" meetup on [march 10th 2014](http://webentwickler-paderborn.de/events/2014-03-10.html).
+This is the source code for the sample application I've live-Coded when giving a presentation about Meteor at the "[Webentwickler Paderborn](http://webentwickler-paderborn.de)" meetup on [march 10th 2014](http://webentwickler-paderborn.de/events/2014-03-10.html).
 
 You can read along the commit messages to get an overall understanding of how Meteor works.
 
